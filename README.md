@@ -1,2 +1,2 @@
 # Katas
-Here I post the katas I made. (Only the function, not the tests)
+Here I post the katas I made on CodeWars
